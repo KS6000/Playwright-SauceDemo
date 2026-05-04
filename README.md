@@ -2,6 +2,7 @@
 
 [![Playwright Tests](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml)
 
+
 ## 📌 Overview
 End-to-end automation framework built using Playwright and JavaScript, implementing the Page Object Model (POM) design pattern.
 
