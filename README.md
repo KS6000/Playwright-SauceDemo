@@ -1,0 +1,27 @@
+# Playwright SauceDemo Automation
+
+## 📌 Overview
+End-to-end automation framework built using Playwright and JavaScript, implementing the Page Object Model (POM) design pattern.
+
+This project automates key user flows on the SauceDemo application, including login, cart management, and checkout process.
+
+---
+
+## 🛠 Tech Stack
+- Playwright
+- JavaScript (Node.js)
+- Page Object Model (POM)
+- Cross-browser testing (Chromium, Firefox, WebKit)
+
+---
+
+## ✅ Test Coverage
+- User login (valid & invalid scenarios)
+- Add item to cart
+- Remove item from cart
+- Checkout process
+- Order completion verification
+
+---
+
+## 📂 Project Structure
