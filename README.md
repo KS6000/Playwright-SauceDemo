@@ -24,4 +24,14 @@ This project automates key user flows on the SauceDemo application, including lo
 
 ---
 
+## ▶️ How to Run Tests
+
+```bash
+npm install
+npx playwright test
+
+---
+
 ## 📂 Project Structure
+
+
