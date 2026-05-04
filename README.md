@@ -12,11 +12,12 @@ This project automates key user flows on the SauceDemo application, including lo
 
 ## ⭐ Key Features
 
-- End-to-end test automation using Playwright
+- End-to-end test automation framework using Playwright
 - Page Object Model (POM) design pattern
 - Cross-browser testing (Chromium, Firefox, WebKit)
 - CI/CD pipeline using GitHub Actions
-- HTML test reporting
+- Automated HTML test reporting with Playwright
+- Data-driven testing using external test data
   
 ---
 
