@@ -10,6 +10,14 @@ End-to-end automation framework built using Playwright and JavaScript, implement
 
 This project automates key user flows on the SauceDemo application, including login, cart management, and checkout process.
 
+## ⭐ Key Features
+
+- End-to-end test automation using Playwright
+- Page Object Model (POM) design pattern
+- Cross-browser testing (Chromium, Firefox, WebKit)
+- CI/CD pipeline using GitHub Actions
+- HTML test reporting
+  
 ---
 
 ## 🛠 Tech Stack
