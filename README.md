@@ -1,5 +1,7 @@
 # Playwright SauceDemo Automation
 
+End-to-end test automation framework using Playwright with Page Object Model (POM) and CI/CD integration via GitHub Actions.
+
 [![Playwright Tests](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml)
 
 
