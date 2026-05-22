@@ -85,4 +85,36 @@ This project uses GitHub Actions to automatically run Playwright tests on every 
 ✔ Generates HTML test reports  
 ✔ Ensures code stability before deployment  
 
+---
+
+---
+
+## 📸 Test Evidence
+
+This project includes:
+
+- Playwright HTML test reports
+- Cross-browser execution results
+- GitHub Actions CI/CD pipeline runs
+- Automated test execution screenshots
+- Test validation evidence for login, cart, and checkout flows
+
+---
+
+## 🔮 Future Improvements
+
+- Add API mocking scenarios
+- Add reusable utility/helper functions
+- Add environment variable support (.env)
+- Add visual regression testing
+- Expand negative and edge-case validations
+- Improve reporting and test analytics
+
+---
+
+## 👤 Author
+
+Krishan Shura
+
+GitHub: https://github.com/KS6000
 
